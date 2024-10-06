@@ -1,2 +1,3 @@
 # Classes
-Educational repository to learn classes 
+
+Educational repository for learning classes and OOP
